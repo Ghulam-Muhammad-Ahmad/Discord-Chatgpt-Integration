@@ -13,13 +13,13 @@ This project is a Discord chatbot that utilizes OpenAI's GPT-3.5 model to genera
 1. Clone this repository to your local machine:
 
     ```bash
-    git clone https://github.com/your_username/your_repository.git
+    git clone https://github.com/Ghulam-Muhammad-Ahmad/Discord-Chatgpt-Integration.git
     ```
 
 2. Install the required Python packages:
 
     ```bash
-    pip install -r requirements.txt
+    pip install discord, openai
     ```
 
 3. Obtain API keys:
@@ -35,4 +35,4 @@ This project is a Discord chatbot that utilizes OpenAI's GPT-3.5 model to genera
 Run the bot using the following command:
 
 ```bash
-python bot.py
+py main.py
